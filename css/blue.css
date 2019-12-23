@@ -1,0 +1,8 @@
+:root{
+    --color-theme: var(--blue);
+}
+
+body{
+    background: url('../img/azul.jpg');
+     background-attachment: fixed;
+}

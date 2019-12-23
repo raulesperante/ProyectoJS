@@ -1,0 +1,12 @@
+:root{
+    --color-theme: var(--red);
+}
+
+body{
+    background: url('../img/rojo.jpg');
+     background-attachment: fixed;
+}
+
+#logo {
+    text-shadow: 4px 4px 4px blue;
+}

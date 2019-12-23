@@ -1,0 +1,8 @@
+:root{
+    --color-theme: var(--green);
+}
+
+body{
+    background: url('../img/verde.jpg');
+     background-attachment: fixed;
+}
